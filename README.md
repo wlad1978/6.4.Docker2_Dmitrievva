@@ -33,8 +33,8 @@
 Отладка реальных связок. База + бэкенд + фронтенд локально поднимаются за минуту, а не настраиваются вручную полдня.
 Портфолио. compose.yaml в репозитории — то, что первым видит ревьюер или HR: проект запускается без танцев с бубном.`
 
-`При необходимости прикрепитe сюда скриншоты
-![Установка docker compose](https://github.com/wlad1978/6.4.Docker2_Dmitrievva/blob/main/img/install%20docker%20and%20compose.png)`
+
+![Установка docker compose](img/install docker and compose.png)
 
 
 ---
@@ -77,8 +77,8 @@ networks:
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Создание файла и проверка](https://github.com/wlad1978/6.4.Docker2_Dmitrievva/blob/main/img/задание2.png)`
+
+![Создание файла и проверка](img/задание2.png)
 
 
 ---
@@ -167,9 +167,9 @@ scrape_configs:
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Создание файлов и запус docker compose](https://github.com/wlad1978/6.4.Docker2_Dmitrievva/blob/main/img/Задание3%20запуск%20.png)
-![Проверка Prometheus](https://github.com/wlad1978/6.4.Docker2_Dmitrievva/blob/main/img/Проверка%20prometheus.png)`
+
+![Создание файлов и запуск docker compose](img/Задание3 запуск.png)
+![Проверка Prometheus](img/Проверка prometheus.png)
 
 ### Задание 4
 
@@ -226,9 +226,9 @@ networks:
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Запуск docker](https://github.com/wlad1978/6.4.Docker2_Dmitrievva/blob/main/img/Задание4.png)
-![Проверка](https://github.com/wlad1978/6.4.Docker2_Dmitrievva/blob/main/img/Проверка%20pushgateway.png)`
+
+![Запуск docker](img/Задание4.png)
+![Проверка](img/Проверка pushgateway.png)
 ....
 ### Задание 5
   `Выполните действия:
@@ -297,8 +297,8 @@ networks:
 
 ....
 
-`![Запуск grafana](https://github.com/wlad1978/6.4.Docker2_Dmitrievva/blob/main/img/Задание5.png)`
-`![Проверка](https://github.com/wlad1978/6.4.Docker2_Dmitrievva/blob/main/img/grafana.png)`
+![Запуск grafana](img/Задание5.png)
+![Проверка](img/grafana.png)
 
 
 ### Задание6
@@ -370,13 +370,13 @@ networks:
 ....
 
 
-`![Проверка](https://github.com/wlad1978/6.4.Docker2_Dmitrievva/blob/main/img/Задание6проверка.png)`
+![Проверка](img/Задание6проверка.png)
 ....
 
 ###  Задание7
-`![Запуск контейнеров](https://github.com/wlad1978/6.4.Docker2_Dmitrievva/blob/main/img/Задание7запускконтейнеров.png)`
-`![Оповещение](https://github.com/wlad1978/6.4.Docker2_Dmitrievva/blob/main/img/Задание7оповещение.png)`
-`![Итог график](https://github.com/wlad1978/6.4.Docker2_Dmitrievva/blob/main/img/Задание7графикgrafana.png)`
+![Запуск контейнеров](img/Задание7запускконтейнеров.png)
+![Оповещение](img/Задание7оповещение.png)
+![Итог график](img/Задание7графикgrafana.png)
 ....
 
 services:
@@ -435,4 +435,4 @@ networks:
 
 ### Задание8
 
-`![Результат удаления](https://github.com/wlad1978/6.4.Docker2_Dmitrievva/blob/main/img/Задание8.png)`
+![Результат удаления](img/Задание8.png)
